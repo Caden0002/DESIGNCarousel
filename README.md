@@ -1,8 +1,20 @@
-# React + Vite
+![](https://github.com/Caden0002/DESIGNCarousel/blob/main/Designcarousel.gif)
+#### How to Install and Run the Project ####
+1. Open Terminal at the project's CD<br />
+2. rm -rf node_modules && rm package-lock.json && npm install<br />
+3. npm run dev<br />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# DESIGNCarousel
+This project shows a basic carousel and a more advance carousel with React and Splide <br />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Learn more about navbar here:<br />
+https://medium.com/@caden0002/implementing-an-infinite-autoplay-carousel-in-react-with-splide-cac6355ba435
+
+## Tech Stack ##
+React<br />
+Tailwind<br />
+Splide<br />
+
+
+

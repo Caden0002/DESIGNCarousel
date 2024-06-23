@@ -1,0 +1,17 @@
+
+
+.gd-carousel {
+    position:unset;
+
+
+}
+
+/* styles.css */
+.carousel-item {
+  transition: transform 0.5s ease;
+}
+
+.carousel-item.active {
+  transform: scale(1.1);
+  z-index: 1; /* Make sure the active item is on top */
+}
